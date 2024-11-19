@@ -1,6 +1,6 @@
 libraries{
  merge = true 
- checkoutRepo
- installFlyway
- runFlywayMigrations
+ checkoutRepo.groovy
+ installFlyway.groovy
+ runFlywayMigrations.groovy
 }
